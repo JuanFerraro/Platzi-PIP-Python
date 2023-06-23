@@ -1,8 +1,8 @@
 # Python-PIP-Platzi
 
-##Carpeta Game:
+## Carpeta Game:
 **Ejecucion:**
--*Para correr el juego ejecutar los siguientes comandos en la terminal*
+- *Para correr el juego ejecutar los siguientes comandos en la terminal*
 ```sh
  *cd game*
  *python3 main.py*
